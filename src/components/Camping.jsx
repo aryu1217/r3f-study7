@@ -40,7 +40,7 @@ const OverlayItem = ({ className = "", title, description, ...props }) => {
 export function Camping({ html, ...props }) {
   // const { nodes, materials } = useGLTF("/models/Camping Asset Collection.glb");
   const { nodes, materials } = useGLTF(
-    "https://aryu1217.github.io/models/Camping%20Asset%20Collection.glb"
+    "https://aryu1217.github.io/r3f-study7/models/Camping%20Asset%20Collection.glb"
   );
 
   return (
